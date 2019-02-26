@@ -7,8 +7,8 @@ session_start();
 
 <head>
 	<title>文文文庫のHP</title>
-	<meta name="keyword" content="">
-	<meta name="description" content="">
+	<meta name="keyword" content="文文文庫" >
+	<meta name="description" content="創作文芸サークル・文文文庫のWebサイト">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link href="style.css" rel="stylesheet" media="all">
 </head>
