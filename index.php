@@ -35,7 +35,7 @@ session_start();
 				</p>
 				<p>＜参加実績＞</p>
 				<ul>
-					<li>2018/12/28 コミックマーケット95に参加しました。(酒本&百合本頒布)</li>
+					<li>・2018/12/28 コミックマーケット95に参加しました。(酒本&百合本頒布)</li>
 					<li>・2018/11/25 文学フリマ東京に参加しました。(酒本&百合本頒布)</li>
 					<li>・2018/05/27 第4回文学フリマ金沢に参加しました。(酒本頒布)</li>
 					<li>・2017/03/26 尾道てのひら怪談に出品しました。</li>
@@ -72,15 +72,17 @@ session_start();
 				</div>
 
 				<div class="discbox">
+					<a href="https://booth.pm/ja/items/1147899" target="_blank" class="link">
 					<h3>国道百合[ひゃくごう]線 </h3>
 					<img src="img/thum_yuri_596-802.png" width="182" height="257" alt="国道百合[ひゃくごう]線">
+					</a>
 					<p>
 						旅×百合をテーマにした短編集です。<br>
 						百合というのはみんなが好きなあの百合。<br>
 						書いたのは男性。
 					</p>
 					<p>（2018年11月 発行）</p>
-					<a href="#discography" class="link banner"><img src="img/booth_off.png" width="100" height="20" class="banner"></a>
+					<a href="https://booth.pm/ja/items/1147899" target="_blank" class="link banner"><img src="img/booth_on.png" width="100" height="20" class="banner"></a>
 				</div>
 
 				<div class="discbox">
